@@ -60,7 +60,7 @@ A vítima receberá uma ligação e, quando atender, ouvirá o delicioso gemido 
 
 ### Cadê o áudio?
 
-O arquivo encontra-se [neste link](http://prtnsrc.com/2545.mp3). Abra por sua conta e risco!
+O arquivo encontra-se [neste link](https://www.myinstants.com/media/sounds/audiogemido-1.mp3). Abra por sua conta e risco!
 
 ## Docker
 
